@@ -1,0 +1,8 @@
+Task 3: Time Series Analysis
+Description: Analyze a time series dataset (e.g., stock prices, weather data) to detect trends, seasonality, and patterns. Apply time series forecasting techniques to predict future values.
+Skills: Python, Pandas, Matplotlib, Statsmodels, ARIMA.
+Objectives:
+Preprocess the time series data (resampling, handling missing values).
+Perform trend and seasonality analysis using visualization techniques.
+Build a forecasting model using ARIMA or exponential smoothing.
+Evaluate the model’s performance and plot forecasted results.
